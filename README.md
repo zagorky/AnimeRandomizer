@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-JS_TS_REACT_Project is a web application designed to assist users in selecting a random anime and submitting questions through a feedback form. The list of animes is sourced from the Shikimori API, ensuring a diverse and extensive collection of anime options.
+AnimeRandomizer is a web application designed to assist users in selecting a random anime and submitting questions through a feedback form. The list of animes is sourced from the Shikimori API, ensuring a diverse and extensive collection of anime options.
 
 ### Features
 
