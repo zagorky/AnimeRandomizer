@@ -48,7 +48,10 @@ const RandomAnime: FC = () => {
               <strong>Описание:</strong>
               {data.description || "Описание отсутствует"}
             </p>
-            <Link className="animeLink" to={`/anime/${data.id}`}>
+            <Link
+              className="animeLink"
+              to={`/AnimeRandomizer/anime/${data.id}`}
+            >
               Побробнее
             </Link>
           </div>
