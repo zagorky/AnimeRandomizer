@@ -13,7 +13,7 @@ AnimeRandomizer is a web application designed to assist users in selecting a ran
 - Feedback Form - allows users to submit questions or feedback which are then sent to a local server.
 
 ###
-[AnimeRandomizerScreenshot](https://github.com/zagorky/AnimeRandomizer/blob/main/public/AnimeRandomizer.png)
+![AnimeRandomizerScreenshot](https://github.com/zagorky/AnimeRandomizer/blob/main/public/AnimeRandomizer.png)
 
 ### Technologies Used
 
